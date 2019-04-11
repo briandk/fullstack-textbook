@@ -1,3 +1,7 @@
+## Bookdown Output
+_book/*
+_bookdown_files/*
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -240,3 +244,4 @@ TSWLatexianTemp*
 
 # generated if using elsarticle.cls
 *.spl
+.Rproj.user
