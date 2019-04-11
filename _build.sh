@@ -20,6 +20,7 @@ pandoc \
   -o $BOOK_FILE.pdf \
   --from latex \
   --template eisvogel-template.tex \
+  --listings \
   --table-of-contents \
   --variable=titlepage:true \
   --variable=toc_own_page:false \
