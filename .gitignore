@@ -245,3 +245,6 @@ TSWLatexianTemp*
 # generated if using elsarticle.cls
 *.spl
 .Rproj.user
+fullstack-textbook.md
+fullstack-textbook.pdf
+fullstack-textbook.tex

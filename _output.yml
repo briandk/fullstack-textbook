@@ -1,3 +1,6 @@
+rmarkdown::md_document:
+  variant: markdown_github
+  preserve_yaml: true
 bookdown::gitbook:
   css: style.css
   config:
@@ -14,4 +17,5 @@ bookdown::pdf_book:
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
+  template: eisvogel-template.tex
 bookdown::epub_book: default
