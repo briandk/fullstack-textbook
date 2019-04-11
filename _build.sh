@@ -23,7 +23,7 @@ pandoc \
   --listings \
   --table-of-contents \
   --variable=titlepage:true \
-  --variable=toc_own_page:false \
+  --variable=toc-own-page:true \
   --variable=title:"$BOOK_TITLE" \
   --variable=author:"$AUTHOR" \
   --variable=titlepage-color:"435488" \
